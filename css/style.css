@@ -59,6 +59,11 @@ h1.sample{font-size: xx-large;}
     margin: 0;
     padding: 0;
 }
+.box17{
+      text-align: center;
+      font-family: "ＭＳ Ｐ明朝";
+      font-size : 30px;
+}
 
 /*body {
   /* 画像ファイルの指定 */
